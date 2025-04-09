@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkLaMer
-- 👀 I’m interested in ... Reading, Coding, History, Music
+- 👀 I’m interested in ... Software Design, Web Design, Game Design, Reading, History, and Music
 - 🌱 I’m currently learning ... Computer Science
-- 📫 How to reach me ... mark.nistor@queensu.ca
+- 📫 How to reach me ... markanistor@gmail.com
 - ⚡ Fun fact: ... I'm from Transylvania!
 
 <!---
